@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\bin\Debug\ApplicationStartupPath.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\bin\Debug\ApplicationStartupPath.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\bin\Debug\ApplicationStartupPath.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\obj\Debug\ApplicationStartupPath.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\obj\Debug\ApplicationStartupPath.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\obj\Debug\ApplicationStartupPath.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\obj\Debug\ApplicationStartupPath.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\obj\Debug\ApplicationStartupPath.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\obj\Debug\ApplicationStartupPath.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\ApplicationStartupPath\obj\Debug\ApplicationStartupPath.pdb
